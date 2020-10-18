@@ -1,7 +1,7 @@
 # Virtual-Assistant
 
 This Virtual Assistant is capable of __performing several tasks__. It can __interact__ with you, tell you the __time__ etc.
-It can __search__ something for you __on Google__ or __start Youtube__ for you. From yummy __Food Recipes__ to getting a __calculator__ raedy for you it can do several things.
+It can __search__ something for you __on Google__ or __start Youtube__ for you. From yummy __Food Recipes__ to getting a __calculator__ ready for you it can do several things.
 
 __P.S.__ - __It hears your voice and replies to you.__
 
